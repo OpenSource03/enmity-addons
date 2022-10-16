@@ -46,11 +46,11 @@
          "#FFFFFF"
       ],
       "BACKGROUND_PRIMARY": [
-         "#121212",
+         "#000000",
          "#FFFFFF"
       ],
       "BACKGROUND_SECONDARY": [
-         "#000000",
+         "#121212",
          "#FFFFFF"
       ],
       "BACKGROUND_SECONDARY_ALT": [
