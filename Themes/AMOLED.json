@@ -46,27 +46,27 @@
          "#FFFFFF"
       ],
       "BACKGROUND_PRIMARY": [
-         "#000000",
+         "red",
          "#FFFFFF"
       ],
       "BACKGROUND_SECONDARY": [
-         "#000000",
+         "blue",
          "#FFFFFF"
       ],
       "BACKGROUND_SECONDARY_ALT": [
-         "#000000",
+         "orange",
          "#FFFFFF"
       ],
       "BACKGROUND_TERTIARY": [
-         "#000000",
+         "yellow",
          "#FFFFFF"
       ],
       "BACKGROUND_ACCENT": [
-         "#000000",
+         "aqua",
          "#FFFFFF"
       ],
       "BACKGROUND_FLOATING": [
-         "#000000",
+         "white",
          "#FFFFFF"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
