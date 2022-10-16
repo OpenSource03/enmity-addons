@@ -70,15 +70,15 @@
          "#FFFFFF"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
-         "#000000",
+         "green",
          "#FFFFFF"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
-         "#000000",
+         "purple",
          "#FFFFFF"
       ],
       "BACKGROUND_NESTED_FLOATING": [
-         "#000000",
+         "pink",
          "#FFFFFF"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
