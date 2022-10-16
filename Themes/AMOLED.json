@@ -136,8 +136,8 @@
       "PRIMARY_DARK_500": "#0c0c0c",
       "PRIMARY_DARK_600": "#000000",
       "PRIMARY_DARK_630": "#1f1f1f",
-      "PRIMARY_DARK_700": "#121212",
-      "PRIMARY_DARK_800": "#121212",
+      "PRIMARY_DARK_700": "red",
+      "PRIMARY_DARK_800": "blue",
       "PRIMARY_DARK_900": "green"
    },
    "unsafe_colors": {
