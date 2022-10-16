@@ -70,15 +70,15 @@
          "#FFFFFF"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
-         "green",
+         "#000000",
          "#FFFFFF"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
-         "purple",
+         "#000000",
          "#FFFFFF"
       ],
       "BACKGROUND_NESTED_FLOATING": [
-         "pink",
+         "#000000",
          "#FFFFFF"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
@@ -127,17 +127,17 @@
       ]
    },
    "colours": {
-      "PRIMARY_DARK": "pink",
+      "PRIMARY_DARK": "#000000",
       "PRIMARY_DARK_100": "#ffffff",
       "PRIMARY_DARK_200": "#ffffff",
       "PRIMARY_DARK_300": "#B6B6B6",
       "PRIMARY_DARK_360": "#C8C8C8",
       "PRIMARY_DARK_400": "#C8C8C8",
       "PRIMARY_DARK_500": "#0c0c0c",
-      "PRIMARY_DARK_600": "purple",
+      "PRIMARY_DARK_600": "#000000",
       "PRIMARY_DARK_630": "#1f1f1f",
-      "PRIMARY_DARK_700": "red",
-      "PRIMARY_DARK_800": "blue",
+      "PRIMARY_DARK_700": "#121212",
+      "PRIMARY_DARK_800": "#121212",
       "PRIMARY_DARK_900": "green"
    },
    "unsafe_colors": {
